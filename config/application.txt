@@ -3,8 +3,8 @@
         "port": ":3000"
     },
     "cloud": {
-        "key": "<这里是云图库的Cloud Key>",
-        "secret": "<这里是云图库的Cloud Secret>",
-        "url": "http://<这里是云图库的Client-end URL>/search"
+        "key": "f255fe502619666fbd7541b3c613f34e",
+        "secret": "sX2UxvxNVMdnkXVJ7pcnUZbBwWrXZkHZSAUOC9Qiy3p9Ui4LIJGc4PzEHx4D1sOB87Bs2N4EVOjg264zCZyRXnTIoOeXFgeOF8puyXj8gzDXOsELHDs4IrNBEqHFdqVt",
+        "url": "http://36817fdcbc145711fc593d8e5b9bff4e.cn1.crs.easyar.com:8080/search"
     }
 }
